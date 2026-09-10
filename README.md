@@ -1,5 +1,8 @@
 # Hi there, I'm Eric Groesser Jr. 👋
 
+* download my resume [here](https://rawcdn.githack.com/ericgroesserjr/ericgroesserjr/ra/main/Updated%20resume.pdf).
+  
+
 Aspiring Accounting and Finance student at Baldwin Wallace University 
 
 ---
