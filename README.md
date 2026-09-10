@@ -23,6 +23,16 @@ Aspiring Accounting and Finance student at Baldwin Wallace University
 | --- | --- | --- |
 | **To-Do List WebApp** | WebApp built on PythonAnywhere using [OpenAI] | `[Python]` `[Flask]` |
 
+### 📌 Featured Projects
+
+| Python Website Creation | Running a To-Do list | Python, Open AI |
+| --- | --- | --- |
+| **To-Do List WebApp** | WebApp built on PythonAnywhere using [OpenAI] | `[Python]` `[Flask]` |
+### 📌 Featured Projects
+
+| Python Website Creation | Running a To-Do list | Python, Open AI |
+| --- | --- | --- |
+| **To-Do List WebApp** | WebApp built on PythonAnywhere using [OpenAI] | `[Python]` `[Flask]` |
 
 ---
 
